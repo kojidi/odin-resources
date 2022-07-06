@@ -3,7 +3,9 @@
 :x: UNREAD / :heavy_check_mark: DONE
 
 <br>
+
 ## Content Links :  
+
 ❌ [The Brutal Lifecycle of JavaScript Frameworks](https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/)  
 ✔️ [2021 StackOverflow Developer Survey](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks)  
 ❌ [Top 10 reasons why you should learn React right now](https://laptrinhx.com/top-10-reasons-why-you-should-learn-react-right-now-3718263995/)  
