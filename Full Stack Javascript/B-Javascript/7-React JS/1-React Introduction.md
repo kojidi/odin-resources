@@ -20,8 +20,11 @@
 ❌ [React Developer Tools (Google extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)  
   
 ## Assignment Links :  
-❌ [Hello World (React Docs)](https://reactjs.org/docs/hello-world.html)  
-❌ [Introducing JSX (React Docs)](https://reactjs.org/docs/introducing-jsx.html)  
+✔️ [Hello World (React Docs)](https://reactjs.org/docs/hello-world.html)  
+✔️ [Introducing JSX (React Docs)](https://reactjs.org/docs/introducing-jsx.html)  
+- SoC (Separation of Concerns) [Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)  
+- Cross-site scripting (XSS) [Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)  
+
 ❌ [Rendering Elements (React Docs)](https://reactjs.org/docs/rendering-elements.html)  
 ❌ [Components and Props (React Docs)](https://reactjs.org/docs/components-and-props.html)  
 ❌ [ReactJS Basics - #1 What is React? (Academind)](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)  
