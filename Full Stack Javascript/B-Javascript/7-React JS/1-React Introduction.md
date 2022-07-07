@@ -17,7 +17,7 @@
 ❌ [Getting started with Create React App](https://blog.logrocket.com/getting-started-with-create-react-app-d93147444a27/)  
 ❌ [React 16 For Everyone #2 - Create React App & Initial Files Explained](https://www.youtube.com/watch?v=rUdtgnwrA14)  
 ❌ [Debugging Components with React Developer Tools](https://www.pluralsight.com/guides/debugging-components-with-react-developer-tools)  
-❌ [React Developer Tools (Google extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)  
+❌ [React Developer Tools (Google extension)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)  
   
 ## Assignment Links :  
 ✔️ [Hello World (React Docs)](https://reactjs.org/docs/hello-world.html)  
