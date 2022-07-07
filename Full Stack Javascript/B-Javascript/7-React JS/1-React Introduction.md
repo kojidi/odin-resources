@@ -25,9 +25,9 @@
 - SoC (Separation of Concerns) [Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)  
 - Cross-site scripting (XSS) [Wikipedia](https://en.wikipedia.org/wiki/Cross-site_scripting)  
 
-❌ [Rendering Elements (React Docs)](https://reactjs.org/docs/rendering-elements.html)  
-❌ [Components and Props (React Docs)](https://reactjs.org/docs/components-and-props.html)  
-❌ [ReactJS Basics - #1 What is React? (Academind)](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)  
+✔️ [Rendering Elements (React Docs)](https://reactjs.org/docs/rendering-elements.html)  
+✔️ [Components and Props (React Docs)](https://reactjs.org/docs/components-and-props.html)  
+✔️ [ReactJS Basics - #1 What is React? (Academind)](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)  
 ❌ [ReactJS Basics - #3 First Component (Academind)](https://www.youtube.com/watch?v=G40iHC-h0c0&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS&index=5)  
 ❌ [ReactJS Basics - #4 Multiple Components (Academind)](https://www.youtube.com/watch?v=9wK4gHoOh1g&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS&index=6)  
 
