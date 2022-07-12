@@ -14,3 +14,6 @@
 
 
 ![URL explained](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL/mdn-url-all.png "URL")
+
+❌ [URL in details - Wikipedia](https://en.wikipedia.org/wiki/URL)  
+
