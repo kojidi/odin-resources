@@ -11,3 +11,8 @@
 ❌ [React.Component](https://reactjs.org/docs/react-component.html)  
 ❌ [React Component Lifecycle - Hooks / Methods Explained](https://www.youtube.com/watch?v=m_mtV4YaI8c)  
 ❌ [Create React App not showing error message with ErrorBoundary](https://stackoverflow.com/questions/48353695/create-react-app-not-showing-error-message-with-errorboundary/48354840#48354840)  
+
+## Additional Recourses :
+
+❌ [React 16 Lifecycle Methods: How and When to Use Them](https://blog.bitsrc.io/react-16-lifecycle-methods-how-and-when-to-use-them-f4ad31fb2282)  
+
